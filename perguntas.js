@@ -48,8 +48,8 @@ criaCartao(
 
 criaCartao(
     'História',
-    'O que foi o Tratado de Versalhes',
-    'Foi o tratado de paz assinado em 1919 que encerrou oficialmente a guerra, impondo duras condições à Alemanha.'
+    'Qual foi o nome do plano alemão de ataque no início da Primeira Guerra Mundial?',
+    'Plano Schlieffen.'
 )
 
 criaCartao(
